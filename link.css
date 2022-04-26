@@ -1,0 +1,9 @@
+.nav li:hover {
+    background-color: turquoise;
+    cursor: pointer;
+    text-decoration: none;
+    position: relative;
+    top: 5px;
+    left: 2px;
+}
+
